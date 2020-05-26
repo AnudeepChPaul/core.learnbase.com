@@ -1,0 +1,10 @@
+{
+  "name": "core.learnbase.com",
+  "version": "1.0.1",
+  "description": "core package for learnbase",
+  "main": "index.js",
+  "repository": "https://github.com/AnudeepChPaul/core.learnbase.com.git",
+  "author": "Anudeep Chandra Paul <achandrapaul@manh.com>",
+  "license": "MIT",
+  "private": false
+}
