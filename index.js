@@ -1,5 +1,4 @@
 'use strict'
-const env = require('./lib/Env')
 
 
 module.exports = function() { 
