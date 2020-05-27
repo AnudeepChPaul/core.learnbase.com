@@ -1,13 +1,21 @@
 {
   "name": "core.learnbase.com",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "core package for learnbase",
   "main": "index.js",
   "repository": "https://github.com/AnudeepChPaul/core.learnbase.com.git",
   "author": "Anudeep Chandra Paul <achandrapaul@manh.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.0"
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "next": "9.4.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   }
 }
