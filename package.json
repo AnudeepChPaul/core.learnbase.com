@@ -1,6 +1,6 @@
 {
   "name": "core.learnbase.com",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "core package for learnbase",
   "main": "index.js",
   "repository": "https://github.com/AnudeepChPaul/core.learnbase.com.git",
